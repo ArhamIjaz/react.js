@@ -1,0 +1,14 @@
+.cont>img{
+    width: 25%;
+    height: 35vh;
+    float: left;
+    border: 5px solid #17161A;
+  
+   
+}
+.cont>img:hover{
+    transform:  scale(1.1);
+    transition-duration: 0.5s;
+    overflow: hidden;
+
+}

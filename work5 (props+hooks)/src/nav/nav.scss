@@ -1,0 +1,19 @@
+$font:orangered;
+body{
+    background-color:azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+h1{
+text-align: center;
+color: $font;
+}
+button{
+    color: $font;
+    background-color:maroon;
+    padding: 5px;
+}
+    
+}

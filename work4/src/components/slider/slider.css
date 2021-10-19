@@ -1,0 +1,15 @@
+.slide1{
+    width: 100%;
+    height: 25vh;
+    background-color: #17161A;
+    /* border: 1px solid red; */
+    box-shadow: 5px 5px 20px 10px black;
+}
+.set1{
+    width: 25%;
+    height: 25vh;
+    /* border: 1px solid silver; */
+}
+.set1>img{
+    margin-top: 20px;
+}
